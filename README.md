@@ -1,7 +1,5 @@
 
-# Análise de Dados:
-
-## 📌 O que foi feito, passo a passo:
+# 🚀 Automação de Arquivos
 ````
         Um script que:
 
