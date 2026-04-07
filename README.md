@@ -1,5 +1,7 @@
 
 # 🚀 Automação de Arquivos
+
+## Script de automação em Python que organiza arquivos automaticamente por tipo
 ````
         Um script que:
 
