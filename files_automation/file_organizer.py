@@ -46,4 +46,4 @@ for folder in os.listdir(base_path):
                 os.makedirs(destination, exist_ok=True)
 
                 shutil.move(file_path, os.path.join(destination, filename))
-                print(f'Movido: {filename} → {destination}')
+                print(f'Movido: {filename} to {destination}')
