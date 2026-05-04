@@ -10,3 +10,5 @@ Script em Python para automatizar organização de arquivos.
 
 ## Tecnologias:
 - Python
+
+## Posso adaptar esse script para sua necessidade
