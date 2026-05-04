@@ -1,22 +1,12 @@
 
-# 🚀 Automação de Arquivos
+# File Automation with Python
 
-## Script de automação em Python que organiza arquivos automaticamente por tipo
-````
-        Um script que:
+Script em Python para automatizar organização de arquivos.
 
-            - Organiza arquivos por tipo (PDF, imagem, etc.)
-            - Move automaticamente para pastas
+## O que faz:
+- Move arquivos automaticamente
+- Organiza por tipo ou nome
+- Reduz trabalho manual
 
-        🛠️ Tecnologias:
-            - Python
-            - os, shutil
-
-
-        🧩 Passo a passo
-            1. Ler arquivos de uma pasta
-            2. Identificar extensão (.pdf, .jpg…)
-            3. Criar pastas automaticamente
-            4. Mover arquivos
-
-````
+## Tecnologias:
+- Python
